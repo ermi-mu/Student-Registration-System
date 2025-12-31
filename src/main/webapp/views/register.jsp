@@ -87,15 +87,13 @@
                     </form>
                 </div>
                 
-                <div class="card-footer">
-                    <p>Already registered? <a href="${pageContext.request.contextPath}/show_all">View all students</a></p>
-                </div>
+
             </div>
         </div>
         
         <footer class="footer">
             <p>© 2024 Student Registration System. All rights reserved.</p>
-            <p>Built with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Dev Team</p>
+            <p>Built with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Ermias</p>
         </footer>
     </div>
     
