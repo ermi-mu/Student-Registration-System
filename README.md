@@ -250,7 +250,7 @@ This project helps you understand:
 ## 📞 Support
 
 For support, please:
-1. Check the [Issues](https://github.com/yourusername/student-registration-system/issues) page
+1. Check the [Issues](https://github.com/ermi-mu/student-registration-system/issues) page
 2. Create a new issue with detailed description
 3. Tag with appropriate labels (bug, enhancement, question)
 
@@ -272,6 +272,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for the Java developer community**
 
-[Report Bug](https://github.com/yourusername/student-registration-system/issues) · [Request Feature](https://github.com/yourusername/student-registration-system/issues)
+[Report Bug](https://github.com/ermi-mu/student-registration-system/issues) · [Request Feature](https://github.com/ermi-mu/student-registration-system/issues)
 
 </div>
